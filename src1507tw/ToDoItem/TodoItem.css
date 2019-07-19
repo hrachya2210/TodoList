@@ -1,0 +1,20 @@
+.todoRow {
+    height: 50px;
+    width: 350px;
+    border-bottom: 1px solid black;
+    color: blue;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-left: 15px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.important {
+    color: red;
+}
